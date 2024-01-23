@@ -1,2 +1,1 @@
-# Parser
-Lexical parser using regexes written in Python
+In this project, I developed a Python-based lexical analyzer and parser for a custom scripting language, employing regular expressions for tokenization. The parser constructs an Abstract Syntax Tree (AST), focusing on accurate parsing of language constructs like if-else statements and while loops. This work demonstrated my skills in language design, parsing algorithms, and error handling in programming language development.
